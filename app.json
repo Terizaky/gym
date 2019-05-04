@@ -1,4 +1,9 @@
 {
-  "name": "gym",
-  "displayName": "gym"
+  "food_array": [
+    {
+      "food_title":"Thuc Don Giam Can",
+      "image":"http://images.cfyc.com.vn/Hình%20chuẩn%20SEO/THỰC%20ĐƠN%20GIẢM%20CÂN/giam-can-military-diet%20%282%29.jpg",
+      "author":"California Fitness & Yoga"
+    }
+  ]
 }
